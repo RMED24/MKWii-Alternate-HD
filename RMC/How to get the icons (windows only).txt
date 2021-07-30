@@ -1,0 +1,1 @@
+Move the folder named "Folder icons, Move me in the windows folder" in c:/Windows or in the shortcut in this folder

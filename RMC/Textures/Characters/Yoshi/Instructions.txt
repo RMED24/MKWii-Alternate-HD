@@ -1,0 +1,4 @@
+1) Open up Yoshi.psd with photoshop or https://www.photopea.com/
+2) Edit Your Image, you can double click the color fill layers to change the color, alternatevely, you can use the hue/saturation Fx layer
+3.0) On photoshop click File > Export > Quick Export As Png
+3.1) On Photopea click File > Export as > Png > Check "As Artboards" > Save, then extract the folder
