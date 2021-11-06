@@ -1,3 +1,6 @@
+This project is now becoming outdated. We have plans to create a much more faithful version of MKWii-HD
+
+
 # MKWii-HD
 ## How to contribute
 **Create a pull request, note that the changes have to go through a verification process**
