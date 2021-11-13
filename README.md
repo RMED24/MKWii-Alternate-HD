@@ -1,4 +1,4 @@
-This project is now becoming outdated. We have plans to create a much more faithful version of MKWii-HD
+This project is now becoming outdated. You can now see an updated version at https://github.com/Snowblind77/MKWii-Faithful-HD
 
 
 # MKWii-HD
